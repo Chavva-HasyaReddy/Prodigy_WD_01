@@ -8,3 +8,6 @@ It has a fixed position, ensuring visibility across all pages.
 HTML: For structuring the menu.
 CSS: For styling and layout.
 JavaScript: For interactivity and dynamic functionality.
+
+
+
